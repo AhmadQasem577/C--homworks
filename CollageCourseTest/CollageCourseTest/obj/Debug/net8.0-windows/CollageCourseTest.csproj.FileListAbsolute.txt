@@ -1,0 +1,16 @@
+F:\Projects\CollageCourseTest\CollageCourseTest\bin\Debug\net8.0-windows\CollageCourseTest.exe
+F:\Projects\CollageCourseTest\CollageCourseTest\bin\Debug\net8.0-windows\CollageCourseTest.deps.json
+F:\Projects\CollageCourseTest\CollageCourseTest\bin\Debug\net8.0-windows\CollageCourseTest.runtimeconfig.json
+F:\Projects\CollageCourseTest\CollageCourseTest\bin\Debug\net8.0-windows\CollageCourseTest.dll
+F:\Projects\CollageCourseTest\CollageCourseTest\bin\Debug\net8.0-windows\CollageCourseTest.pdb
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.Main_form.resources
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.csproj.GenerateResource.cache
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.AssemblyInfoInputs.cache
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.AssemblyInfo.cs
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.csproj.CoreCompileInputs.cache
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.dll
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\refint\CollageCourseTest.dll
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.pdb
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\CollageCourseTest.genruntimeconfig.cache
+F:\Projects\CollageCourseTest\CollageCourseTest\obj\Debug\net8.0-windows\ref\CollageCourseTest.dll
